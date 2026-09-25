@@ -53,32 +53,21 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=zxclushkin&show_icons=true&count_private=true&rank_icon=github&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&border_radius=14" alt="stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxclushkin&layout=compact&langs_count=8&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&border_radius=14" alt="top langs" />
+<img width="100%" src="https://raw.githubusercontent.com/zxclushkin/zxclushkin/main/assets/stats.svg" alt="Статистика" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=zxclushkin&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89&currStreakNum=c0caf5&sideNums=c0caf5&border_radius=14" alt="streak" />
+<img width="100%" src="https://raw.githubusercontent.com/zxclushkin/zxclushkin/main/assets/langs.svg" alt="Языки" />
 
 </div>
 
 ---
 
-## 🏆 Трофеи
+## 📈 Активность
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zxclushkin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&row=1" alt="trophies" />
-
-</div>
-
----
-
-## 📈 График активности
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zxclushkin&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true&radius=14" alt="activity graph" />
+<img width="100%" src="https://raw.githubusercontent.com/zxclushkin/zxclushkin/main/assets/activity.svg" alt="Активность за год" />
 
 </div>
 

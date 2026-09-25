@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="126" viewBox="0 0 860 126" role="img" aria-label="Языки" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1b27"/>
+      <stop offset="1" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="0.5" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="859" height="125" rx="16" fill="url(#bg)" stroke="#2f334d"/>
+  <rect x="20" y="24" width="6" height="22" rx="3" fill="#bb9af7" filter="url(#glow)"/>
+  <text x="38" y="42" font-size="19" font-weight="700" fill="#c0caf5">Языки</text>
+  <clipPath id="barclip"><rect x="28" y="68" width="804" height="12" rx="6"/></clipPath>
+  <g clip-path="url(#barclip)">
+    <rect x="28" y="68" width="804" height="12" fill="#b07219"/>
+  </g>
+  <circle cx="34" cy="110" r="5" fill="#b07219"/>
+  <text x="48" y="114" font-size="14" fill="#c0caf5">Java</text>
+  <text x="832" y="114" text-anchor="end" font-size="13" fill="#565f89">100.0%</text>
+</svg>
