@@ -269,9 +269,11 @@ function renderActivity(rawWeeks) {
   const days = flattenDays(u.contributionsCollection.contributionCalendar);
   const st = streaks(days);
 
+  const META_REPOS = new Set([LOGIN, LOGIN + ".github"]);
   const langMap = new Map();
   let stars = 0;
   for (const r of u.repos.nodes) {
+    if (META_REPOS.has(r.name)) continue;
     stars += r.stargazerCount;
     for (const e of r.languages.edges) {
       const cur = langMap.get(e.node.name) || { size: 0, color: e.node.color || PALETTE.title };
