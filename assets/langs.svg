@@ -24,9 +24,9 @@
   <text x="38" y="42" font-size="19" font-weight="700" fill="#c0caf5">Языки</text>
   <clipPath id="barclip"><rect x="28" y="68" width="804" height="12" rx="6"/></clipPath>
   <g clip-path="url(#barclip)">
-    <rect x="28" y="68" width="804" height="12" fill="#f1e05a"/>
+    <rect x="28" y="68" width="804" height="12" fill="#b07219"/>
   </g>
-  <circle cx="34" cy="110" r="5" fill="#f1e05a"/>
-  <text x="48" y="114" font-size="14" fill="#c0caf5">JavaScript</text>
+  <circle cx="34" cy="110" r="5" fill="#b07219"/>
+  <text x="48" y="114" font-size="14" fill="#c0caf5">Java</text>
   <text x="832" y="114" text-anchor="end" font-size="13" fill="#565f89">100.0%</text>
 </svg>
