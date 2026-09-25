@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,cs,nodejs,nextjs,docker,postgres,git,github,linux,idea,vscode&theme=dark&perline=13" alt="skills" />
+<img width="100%" src="https://raw.githubusercontent.com/zxclushkin/zxclushkin/main/assets/stack.svg" alt="Стек и инструменты" />
 
 </div>
 
@@ -54,10 +54,6 @@
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/zxclushkin/zxclushkin/main/assets/stats.svg" alt="Статистика" />
-
-<br/><br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/zxclushkin/zxclushkin/main/assets/langs.svg" alt="Языки" />
 
 </div>
 
